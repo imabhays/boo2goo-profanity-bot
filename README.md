@@ -18,18 +18,25 @@ Welcome to the Boo2Goo Bot! This bot is designed to filter out profanity in mess
     - profanity is replaced with either "googoo" or "booboo."
 - To accomplish this, the bot deletes the original message and reposts the edited version with a header.
 
-Example of original message
+
+**Example of original message**
+
 
 ![image-center](before.jpg){: .align-center}{: width="500" }
 
-Example of Edited message posted by Bot
+
+**Example of Edited message posted by Bot**
+
 
 ![image-center](after.jpg){: .align-center}{: width="500" }
 
 Please note that due to Telegram bot limitations, the bot cannot directly edit messages from other users. Hence, the original message is deleted, and an edited version is posted with the header.
 
+Enjoy chatting with your friends in a fun and friendly environment with Boo2Goo Bot!
+
+
 ## How To Make Your Own Telgram Bot and Host It On Railway.app
 
-Follow this tutorial
+[Follow this tutorial]
 
-Enjoy chatting with your friends in a fun and friendly environment with Boo2Goo Bot!
+

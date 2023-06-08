@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\Projects\Learning\python\telegram-bots\googoo\env
+set VIRTUAL_ENV=D:\Projects\Learning\python\telegram-bots\boo2goo-profanity-bot\env
 
 if not defined PROMPT set PROMPT=$P$G
 

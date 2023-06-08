@@ -1,0 +1,1 @@
+worker: python boo2goo_bot.py

@@ -18,7 +18,7 @@ Welcome to the Boo2Goo Bot! This bot is designed to filter out profanity in mess
     - profanity is replaced with either "googoo" or "booboo."
 - To accomplish this, the bot deletes the original message and reposts the edited version with a header.
 
-Example of original message
+<u>Example of original message</u>
 
 ![image-center](before.jpg){: .align-center}{: width="500" }
 
